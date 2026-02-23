@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abe27851-0360-4d2f-ac17-2ce74a45234d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cardatabase2/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/src/main/java/com/korit2/cardatabase/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/src/main/java/com/korit2/cardatabase/CardatabaseApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/src/main/java/com/korit2/cardatabase/domain/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase2/src/test/java/com/korit2/cardatabase/CardatabaseApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardatabase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardatabase/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/20260223.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/20260223.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3A3IiYbEi1ZwMwX6hNO0T1EWbwz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.C:/kimseungil/korit_12_springboot/cardatabase/build.gradle.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/kimseungil/korit_12_springboot",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\kimseungil\korit_12_springboot" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abe27851-0360-4d2f-ac17-2ce74a45234d" name="Changes" comment="" />
+      <created>1771814955945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771814955945</updated>
+      <workItem from="1771814956798" duration="5000" />
+      <workItem from="1771814972299" duration="7000" />
+    </task>
+    <servers />
+  </component>
+</project>
