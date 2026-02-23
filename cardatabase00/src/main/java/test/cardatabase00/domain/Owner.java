@@ -30,6 +30,8 @@ public class Owner {
     }
 
     public Owner(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
     }
 
     public Long getOwnerId() {

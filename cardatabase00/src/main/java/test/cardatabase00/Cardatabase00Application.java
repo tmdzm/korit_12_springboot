@@ -31,8 +31,10 @@ public class Cardatabase00Application implements CommandLineRunner {
 		ownerRepository.save(owner1);
 
 		Car car0 = new Car("르노","Qm6","회색","987나6543",2026,1234567,owner0);
-		Car car1 = new Car("르노","Qm6","회색","987나6543",2026,1211567,owner1);
+		Car car1 = new Car("르qod","Qmz","회색","987나6513",2026,1211567,owner1);
 
-		carRepository.saveAll(car0,car1);
+		carRepository.save(car0);
+		carRepository.save(car1);
+
 	}
 }
