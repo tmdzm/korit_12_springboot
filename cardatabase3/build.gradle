@@ -24,23 +24,18 @@ dependencies {
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
-
-	// H2 인메모리 데이터베이스 추가
-//	runtimeOnly 'com.h2database:h2'
-	// JPA 의존성 주입
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-
-	// Lombok 의존성 주입
 	implementation 'org.projectlombok:lombok:1.18.42'
 	annotationProcessor 'org.projectlombok:lombok:1.18.42'
-
-	// MariaDB 이식 관련
 	runtimeOnly 'org.mariadb.jdbc:mariadb-java-client'
 
-	// Spring Data REST 의존성 추가
 	implementation 'org.springframework.boot:spring-boot-starter-data-rest'
-	//Open API 의존성 추가
+
 	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.15'
+
+	//시큐리티 의존성 추가
+	implementation "org.springframework.boot:spring-boot-starter-security"
+	testImplementation "org.springframework.boot:spring-boot-starter-security"
 }
 
 tasks.named('test') {
