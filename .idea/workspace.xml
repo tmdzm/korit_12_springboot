@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abe27851-0360-4d2f-ac17-2ce74a45234d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cardatabase2/src/main/java/com/korit2/cardatabase/config/OpenApiConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/korit2/cardatabase/CardatabaseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/korit2/cardatabase/config/OpenApiConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/korit2/cardatabase/domain/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/korit2/cardatabase/domain/CarRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/korit2/cardatabase/domain/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/korit2/cardatabase/domain/OwnerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/test/java/com/korit2/cardatabase/CardatabaseApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardatabase2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase2/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardatabase2/src/main/java/com/korit2/cardatabase/domain/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase2/src/main/java/com/korit2/cardatabase/domain/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardatabase2/src/main/java/com/korit2/cardatabase/domain/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase2/src/main/java/com/korit2/cardatabase/domain/CarRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardatabase2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardatabase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
