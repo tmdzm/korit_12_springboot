@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="abe27851-0360-4d2f-ac17-2ce74a45234d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardatabase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

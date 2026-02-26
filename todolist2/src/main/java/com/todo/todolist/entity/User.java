@@ -1,19 +1,19 @@
-package com.todolist.tl.domain;
+package com.todo.todolist.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
 
 import java.util.List;
 
-@Data
 @Entity
-@Table(name="users")
+@Table(name= "users")
+@Data
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    @Column(nullable = false,unique = true)
+    @Column(nullable = false, unique = true)
     private String username;
 
     @Column(nullable = false)
@@ -22,8 +22,8 @@ public class User {
     @Column(nullable = false)
     private String role;
 
-    @OneToMany(mappedBy = "user",cascade = CascadeType.ALL)//유저가 날아가면 다 날아가게
-    private List<Todo> todos; //왜 Array ~~가 아니지
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
+    private List<Todo> todos;
 
     public User() {}
 
