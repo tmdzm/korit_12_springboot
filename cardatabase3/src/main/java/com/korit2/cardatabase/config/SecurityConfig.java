@@ -53,6 +53,13 @@ public class SecurityConfig {
 
     @Bean
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception{ // 출 력
+        //로그인 구현 전
+//        http.csrf(csrf -> csrf.disable())
+//                .cors(withDefaults())//이게 뭐길래 연결과 의미가
+//                .authorizeHttpRequests(authorizationHttpRequests ->
+//                        authorizationHttpRequests.anyRequest().permitAll());
+
+        //로그인 구현 후
         http.csrf(csrf -> csrf.disable())
                 .cors(Customizer.withDefaults())
                 .sessionManagement(sessionManagement
@@ -66,7 +73,7 @@ public class SecurityConfig {
     }
 
     @Bean
-    public CorsConfigurationSource corsConfigurationSource(){
+    public CorsConfigurationSource corsConfigurationSource(){//컨트롤러? 연결에 허락용
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowedOrigins(Arrays.asList("*"));
